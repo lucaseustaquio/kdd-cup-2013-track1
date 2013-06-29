@@ -1,0 +1,4 @@
+{
+	"working_dir": "D:/Dropbox/Eclipse/AuthorPaperIdentification/",
+    "postgres_conn_string": "host='localhost' dbname='AuthorPaperIdentification' user='postgres' password='abc_12345'"
+}
